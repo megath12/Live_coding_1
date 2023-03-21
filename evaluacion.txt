@@ -1,0 +1,4 @@
+
+- Se realizo el primer ejercicio satisfactoriamente
+- El segundo ejercicio quedo inconcluso al no mostrar el arreglo en forma de lista
+
