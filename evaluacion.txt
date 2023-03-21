@@ -1,4 +1,9 @@
 
-- Se realizo el primer ejercicio satisfactoriamente
-- El segundo ejercicio quedo inconcluso al no mostrar el arreglo en forma de lista
+Se realizo el primer ejercicio satisfactoriamente
+El segundo ejercicio quedo inconcluso al no mostrar el arreglo en forma de lista
 
+Me gusto el hecho de que primero determinaras el tamaño tanto del array como de la palabra para así tener una comparación de inicio, determinando que no sobrepasara el limite.
+
+Tambien la creación de esos contadores de inicio , creía que solo con un contador era suficiente pero me diste otra perspectiva de como abordarlo.
+
+Te recomendaría un poco de atención al detalle respecto al orden e atentación del código y nombrar a tus variables acorde a lo que harán , ya que no tenia claro que significaba tarray.
